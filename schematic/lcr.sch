@@ -9,7 +9,7 @@ refdes=L1
 T 48100 47300 5 10 0 0 270 0 1
 symversion=0.1
 T 47400 47500 5 10 1 0 0 0 1
-value=4m4H
+value=4.4mH
 }
 C 47600 45100 1 90 0 resistor-2.sym
 {
@@ -18,7 +18,7 @@ device=RESISTOR
 T 47300 45300 5 10 1 1 90 0 1
 refdes=R2
 T 47600 45100 5 10 1 0 0 0 1
-value=3R6
+value=3.6R
 }
 C 44400 44600 1 180 0 resistor-2.sym
 {
